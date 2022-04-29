@@ -1,6 +1,7 @@
 <?php
 require_once get_theme_file_path("./inc/customizer.php");
 require_once get_theme_file_path("./inc/tgm.php");
+require_once get_theme_file_path("./inc/acf.php");
 function cat_after_setup_theme()
 {
     load_theme_textdomain("cat");
