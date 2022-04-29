@@ -1,0 +1,15 @@
+@media all and (min-width: 768px) {
+   .page-title{
+       font-size: 40px;
+   }
+ 
+}
+@media all and (min-width: 576px) {
+    .slider-title {
+        font-size: 50px;
+    }
+    .slider-subtitle {
+        font-size: 18px;
+    }
+ 
+}
